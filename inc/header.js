@@ -8,4 +8,4 @@
  * Date: @DATE
  */
 
-(function(expose) {
+define (function (require,exports,module) {
